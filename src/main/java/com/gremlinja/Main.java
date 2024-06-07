@@ -4,8 +4,6 @@ import com.gremlinja.dto.Quote;
 import com.gremlinja.model.Args;
 import com.gremlinja.service.Forismatic;
 
-import java.util.Optional;
-
 public class Main {
     public static void main(String[] args) {
         Args arguments = new Args(args);

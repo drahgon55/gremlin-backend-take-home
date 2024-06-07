@@ -1,6 +1,5 @@
 package com.gremlinja.enums;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
